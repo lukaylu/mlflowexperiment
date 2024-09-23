@@ -3,6 +3,8 @@
 # Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
 import os
+os.environ['MLFLOW_TRACKING_USERNAME']='lukaylu'
+os.environ['MLFLOW_TRACKING_PASSWORD']='52ea38c2785d46f36b1c3b04e496bd7b819debf2'
 import warnings
 import sys
 

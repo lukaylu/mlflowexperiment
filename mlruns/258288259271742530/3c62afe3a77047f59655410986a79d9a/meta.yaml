@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ONUOHA%20LUCKY/Desktop/mlflow/mlruns/258288259271742530/3c62afe3a77047f59655410986a79d9a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '258288259271742530'
+lifecycle_stage: active
+run_id: 3c62afe3a77047f59655410986a79d9a
+run_name: suave-foal-852
+run_uuid: 3c62afe3a77047f59655410986a79d9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727121020140
+status: 1
+tags: []
+user_id: lukaylu
